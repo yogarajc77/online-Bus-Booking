@@ -16,6 +16,13 @@ A Java Swing Desktop Application for booking bus tickets with seat selection and
 - Seat Selection
 - Database Connectivity
 
+  ##  Screenshots
+
+![Login](login.png)
+![Search](Searchbuses.png)
+![Seat](Selectseats.png)
+
+
 ##  Project Structure
 - com.busbooking.ui → UI screens
 - com.busbooking.db → Database connection
