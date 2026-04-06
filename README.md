@@ -18,7 +18,7 @@ A Java Swing Desktop Application for booking bus tickets with seat selection and
 
   ##  Screenshots
 
-![Login](login.png)
+![Login](Login.png)
 ![Search](Searchbuses.png)
 ![Seat](Selectseats.png)
 
